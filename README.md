@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a PhD student working towards unravelling the mysteries of nature by using modern deep-learning techniques to probe the fundamental interactions inside the ATLAS detector at the Large Hadron Collider of CERN. My main project is building a practical simulation-based inference framework for the ATLAS experiment data analysis, and is expected to be public soon. Stay tuned! 
+
+For ATLAS members, my internal projects can be accessed via Gitlab: https://gitlab.cern.ch/jsandesa
+
 <!--
 **JaySandesara/JaySandesara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
