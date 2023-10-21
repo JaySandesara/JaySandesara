@@ -4,6 +4,8 @@ I am a PhD student working to unravel the mysteries of nature by using modern de
 
 My current main project is building a practical simulation-based inference framework for the ATLAS experiment data analysis, and is expected to be made public soon. Stay tuned! 
 
+See the simulation-based inference computing workflow paper (code to be made public soon after analysis approval within ATLAS collaboration): https://cds.cern.ch/record/2865243/files/ATL-COM-SOFT-2023-101.pdf
+
 For ATLAS members, my internal projects can be accessed via Gitlab: https://gitlab.cern.ch/jsandesa
 
 <!--
