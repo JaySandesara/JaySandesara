@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PhD student working to unravelling the mysteries of nature by using modern deep-learning techniques to probe the fundamental interactions inside the ATLAS detector at the Large Hadron Collider of CERN. 
+I am a PhD student working to unravel the mysteries of nature by using modern deep-learning techniques to probe the high energy proton-proton interactions inside the ATLAS detector at the Large Hadron Collider of CERN. 
 
 My current main project is building a practical simulation-based inference framework for the ATLAS experiment data analysis, and is expected to be made public soon. Stay tuned! 
 
