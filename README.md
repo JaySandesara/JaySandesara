@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a PhD student working on the interface between modern deep-learning ideas and high energy physics using data from the ATLAS detector at the Large Hadron Collider of CERN. 
+I am a PhD student working on the interface between modern deep-learning and high energy physics. My main focus is application to data from the ATLAS detector at the Large Hadron Collider of CERN. 
 
-My current main project is building a practical simulation-based inference framework for the ATLAS experiment data analysis, and is expected to be made public soon. Stay tuned! 
+My current project is building a practical simulation-based inference framework for the ATLAS experiment data analysis, and is expected to be made public soon. Stay tuned! 
 
 See the simulation-based inference computing workflow paper (code to be made public soon): https://cds.cern.ch/record/2865243/files/ATL-COM-SOFT-2023-101.pdf
 
