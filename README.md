@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I am a PhD student working on the interface between modern deep-learning and high energy physics, with a particular focus on Higgs boson measurements at the Large Hadron Collider.
+I am a Postdoctoral Research Associate at UW-Madison, working on the interface between modern deep-learning and fundamental physics, with a focus on Higgs boson measurements at the ATLAS experiment at CERN.
 
-My current project is building a practical simulation-based inference framework for the ATLAS experiment data analysis, and is expected to be made public soon. 
+I am also part of the Institute of Research and Innovation in Software for High Energy Physics (IRIS-HEP), where I participate in building an analysis system focused on Neural Simulation-Based Inference (NSBI).
 
-See the simulation-based inference computing workflow paper (code to be made public soon): https://cds.cern.ch/record/2865243/files/ATL-COM-SOFT-2023-101.pdf
+My most recent work with NSBI:
 
-For ATLAS members, my internal projects can be accessed via Gitlab: https://gitlab.cern.ch/jsandesa
+- Measurement of off-shell Higgs boson production in the $H^*\rightarrow ZZ\rightarrow 4\ell$ decay channel using a neural simulation-based inference technique in 13 TeV $pp$ collisions with the ATLAS detector (arXiv: [2412.01548](https://arxiv.org/abs/2412.01548))
+
+- An implementation of neural simulation-based inference for parameter estimation in ATLAS (arXiv: [2412.01600](https://arxiv.org/abs/2412.01600))
 
 <!--
 **JaySandesara/JaySandesara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
