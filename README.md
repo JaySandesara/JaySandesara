@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Postdoctoral Research Associate at UW-Madison, working on the interface between modern deep-learning and fundamental physics, with a focus on Higgs boson measurements at the ATLAS experiment at CERN.
+I am a Postdoctoral Researcher at UW-Madison, working on the interface between modern deep-learning and fundamental physics, with a focus on Higgs boson measurements at the ATLAS experiment at CERN.
 
 I am also part of the [Institute of Research and Innovation in Software for High Energy Physics (IRIS-HEP)](https://iris-hep.org), where I participate in building an analysis system focused on Neural Simulation-Based Inference (NSBI).
 
