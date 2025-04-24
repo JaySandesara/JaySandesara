@@ -10,5 +10,5 @@ My most recent work with NSBI:
 
 - An implementation of neural simulation-based inference for parameter estimation in ATLAS (arXiv: [2412.01600](https://arxiv.org/abs/2412.01600))
 
-For ATLAS internal code: https://gitlab.cern.ch/jsandesa
+For contributions to the ATLAS internal code, see [gitlab](https://gitlab.cern.ch/jsandesa).
 
